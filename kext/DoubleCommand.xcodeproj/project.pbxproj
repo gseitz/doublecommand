@@ -197,7 +197,7 @@
 					x86_64,
 				);
 				COPY_PHASE_STRIP = NO;
-				CURRENT_PROJECT_VERSION = 1.6.9;
+				CURRENT_PROJECT_VERSION = 1.6.9_with_MicrosoftKeyboardUSB;
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_ENABLE_FIX_AND_CONTINUE = YES;
 				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
@@ -213,7 +213,7 @@
 				"MACOSX_DEPLOYMENT_TARGET[arch=i386]" = 10.4;
 				"MACOSX_DEPLOYMENT_TARGET[arch=ppc]" = 10.4;
 				MODULE_NAME = com.baltaks.driver.DoubleCommand;
-				MODULE_VERSION = 1.6.9;
+				MODULE_VERSION = 1.6.9_with_MicrosoftKeyboardUSB;
 				OTHER_CFLAGS = "-no-cpp-precomp";
 				PREBINDING = NO;
 				PRODUCT_NAME = DoubleCommand;
@@ -234,7 +234,7 @@
 					x86_64,
 				);
 				COPY_PHASE_STRIP = YES;
-				CURRENT_PROJECT_VERSION = 1.6.9;
+				CURRENT_PROJECT_VERSION = 1.6.9_with_MicrosoftKeyboardUSB;
 				GCC_ENABLE_FIX_AND_CONTINUE = NO;
 				GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
 				GCC_MODEL_TUNING = G3;
@@ -248,7 +248,7 @@
 				"MACOSX_DEPLOYMENT_TARGET[arch=i386]" = 10.4;
 				"MACOSX_DEPLOYMENT_TARGET[arch=ppc]" = 10.4;
 				MODULE_NAME = com.baltaks.driver.DoubleCommand;
-				MODULE_VERSION = 1.6.9;
+				MODULE_VERSION = 1.6.9_with_MicrosoftKeyboardUSB;
 				OTHER_CFLAGS = "-no-cpp-precomp";
 				PREBINDING = NO;
 				PRODUCT_NAME = DoubleCommand;
